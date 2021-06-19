@@ -14,12 +14,16 @@ export function Cards() {
         <Luxury />
       </Content>
       <Footer>
-        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">
-          Frontend Mentor
-        </a>.
-        Coded by <a href="https://github.com/augustomoscardo" target="_blank" rel="noreferrer">
-          Augusto Moscardo
-        </a>.
+        <p>
+          Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">
+            Frontend Mentor
+          </a>.
+        </p>
+        <p>
+          Coded by <a href="https://github.com/augustomoscardo" target="_blank" rel="noreferrer">
+            Augusto Moscardo
+          </a>.
+        </p>
       </Footer>
     </Container>
   )

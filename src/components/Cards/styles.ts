@@ -13,9 +13,8 @@ export const Container = styled.main`
   align-items: center;
   flex-direction: column;
 
-  @media (max-width: 775px) {
-    display: flex;
-    flex-direction: column;
+  @media (max-width: 375px) {
+    height: initial;
 
     
   }
@@ -27,15 +26,8 @@ export const Content = styled.div`
   justify-content: center;
   align-items: center;
 
-  @media (max-width: 450px) {
-    display: flex;
-    flex-direction: column;
-    overflow: visible;
-  }
-
   border-radius: .5rem;
   overflow: hidden;
-  background: red;
 
   header {
     padding: 1.5rem 0;
@@ -56,30 +48,56 @@ export const Content = styled.div`
 
     line-height: 1.5rem;
   }
+
+  @media (max-width: 375px) {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+
+    border-radius: .5rem;
+
+  }
 `
 
 export const Footer = styled.div`
+  max-width: 36rem;
+  width: 100%;
   margin-top: 2rem;
 
   font-family: 'Lexend Deca', sans-serif;
 
-  @media (max-width: 450px) {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+  a {
+    text-decoration: none;
+    color: var(--dark-cyan);
+    font-weight: bold;
+    outline: none;
+
+    transition: 200ms;
+
+    &:hover {
+      filter: brightness(0.6);
+    }
+  }
+
+  @media (max-width: 375px) {
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-
-      width: 100%;
-    }
-
-  a {
-    text-decoration: none;
     
-    transition: 700ms;
+      width: 100%;
 
-    &:hover {
-      text-decoration: underline;
+      p:first-child {
+        margin-bottom: 1rem;
+      }
+
+      a {
+        color: var(--dark-cyan);
+      }
     }
-  }
-
 `
