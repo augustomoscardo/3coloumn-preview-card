@@ -1,3 +1,7 @@
+# Frontend Mentor - 3-column preview card component solution
+
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -11,16 +15,11 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
 ## Technologies
 - Application built using Create React-app.
 - Styled-componets for CSS.
 - TypeScript
 
+## URL to visit the application
 
-## Desktop
-
-
-## Mobile
+https://3coloumn-preview-card.vercel.app
