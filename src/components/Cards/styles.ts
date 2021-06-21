@@ -13,7 +13,7 @@ export const Container = styled.main`
   align-items: center;
   flex-direction: column;
 
-  @media (max-width: 375px) {
+  @media (max-width: 450px) {
     height: initial;
 
     
@@ -49,7 +49,7 @@ export const Content = styled.div`
     line-height: 1.5rem;
   }
 
-  @media (max-width: 375px) {
+  @media (max-width: 450px) {
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -84,7 +84,7 @@ export const Footer = styled.div`
     }
   }
 
-  @media (max-width: 375px) {
+  @media (max-width: 450px) {
       display: flex;
       flex-direction: column;
       align-items: center;
