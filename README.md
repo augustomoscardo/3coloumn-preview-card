@@ -3,11 +3,8 @@
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
 
 # Project view
-<!-- ![Desktop design](/public/img/desktop-design.jpg)
-  ![Desktop Active state](/public/img/active-states.jpg)
-  ![Mobile Design](/public/img/mobile-design.jpg) -->
 
-  <img src="public/img/mobile-design.jpg" alt="Mobile design" width="150" height="300">
+  <img src="public/img/mobile-design.jpg" alt="Mobile design" width="200" height="400">
   <img src="public/img/desktop-design.jpg" alt="Desktop design" width="300" height="150">
   <img src="public/img/active-states.jpg" alt="Desktop active states" width="300" height="150">
 
@@ -23,6 +20,8 @@ Once inside the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+# Instalation
 
 ## Technologies
 - Styled-componets for CSS.
