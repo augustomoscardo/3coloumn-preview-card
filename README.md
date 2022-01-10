@@ -7,7 +7,10 @@ This is a solution to the [3-column preview card component challenge on Frontend
   ![Desktop Active state](/public/img/active-states.jpg)
   ![Mobile Design](/public/img/mobile-design.jpg) -->
 
-  <img src="public/img/desktop-design.jpg" alt="Desktop design">
+  <img src="public/img/desktop-design.jpg" alt="Desktop design" width="300" height="150">
+  <img src="public/img/active-states.jpg" alt="Desktop design" width="300" height="150">
+  <img src="public/img/mobile-design.jpg" alt="Desktop design" width="150" height="300">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
