@@ -8,8 +8,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
   ![Mobile Design](/public/img/mobile-design.jpg) -->
 
   <img src="public/img/desktop-design.jpg" alt="Desktop design" width="300" height="150">
-  <img src="public/img/active-states.jpg" alt="Desktop design" width="300" height="150">
-  <img src="public/img/mobile-design.jpg" alt="Desktop design" width="150" height="300">
+  <img src="public/img/active-states.jpg" alt="Desktop active states" width="300" height="150">
+  <img src="public/img/mobile-design.jpg" alt="Mobile design" width="150" height="300">
 
 # Getting Started with Create React App
 
