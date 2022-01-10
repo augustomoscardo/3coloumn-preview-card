@@ -3,9 +3,9 @@
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
 
 # Project view
-![Desktop design](public/img/desktop-design.jpg)
-![Desktop Active state](public/img/active-states.jpg)
-![Mobile Design](public/img/mobile-design.jpg)
+![Desktop design](/public/img/desktop-design.jpg)
+![Desktop Active state](/public/img/active-states.jpg)
+![Mobile Design](/public/img/mobile-design.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
