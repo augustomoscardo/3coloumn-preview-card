@@ -12,16 +12,20 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Available Scripts
 
 Once inside the project directory, you can run:
 
-### `yarn start`
+`yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-# Instalation
+# Installation
+
+To install the packages and libraries used in the project, run:
+
+`yarn`
 
 ## Technologies
 - Styled-componets for CSS.
